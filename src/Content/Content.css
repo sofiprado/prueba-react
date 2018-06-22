@@ -1,0 +1,23 @@
+.img-container {
+  margin: 20px;
+  text-align: center;
+  position: relative;
+}
+
+.little-circle {
+  background-color: aquamarine;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 250px;
+  left: 20px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.painted-circle {
+  background-color: pink;
+
+}
